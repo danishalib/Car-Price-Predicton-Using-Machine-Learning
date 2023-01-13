@@ -39,6 +39,8 @@ In statistics, linear regression is a linear approach to modelling the relations
 The random forest is a classification algorithm consisting of many decision trees. It uses bagging and feature randomness when building each tree to try to create an uncorrelated forest of trees whose prediction by committee is more accurate than that of any individual tree.
 
 Both models were almost showing same results but I considered Random Forest Model as a best model due to R-Squared Score which was 96% for Random Forest was bit more acuurate as compare to Linear Regression Model.
+
+
 * Linear Regression Model
 ![image](https://user-images.githubusercontent.com/109092241/212263701-8b8e492f-fb9e-4284-9e9a-26ef3ec0952c.png)
 
