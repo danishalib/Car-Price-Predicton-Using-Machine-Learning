@@ -1,2 +1,2 @@
-# Car-Price-Predicton-Using-Linear-Regression
+# Car Price Prediction Using Macine Learning
 Final Capstone Project
