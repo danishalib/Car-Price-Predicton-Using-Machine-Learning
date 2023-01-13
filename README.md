@@ -23,4 +23,7 @@ This graph depicts following points:
 * It can be observed that Selling Price would be higher for cars that are Automatic.
 * Selling Price of cars with Fuel Type of Diesel is higher than Petrol and CNG.
 
+### Relation between selling price and some important features affecting the selling price which are very self explanatory.
+
+![image](https://user-images.githubusercontent.com/109092241/212260008-ba141588-31e5-4fec-80d5-1df2d5882bff.png)
 
