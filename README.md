@@ -43,5 +43,5 @@ Both models were almost showing same results but I considered Random Forest Mode
 
 ## Consclusion
 * Car year is affecting negatively as older the car lesser the Selling Price
-* Random Forst Model is being considered as the best model which is 96% accurate while predicting the car prices
+* Random Forest Model is being considered as the best model which is 96% accurate while predicting the car prices
 * Selling price of cars with fuel type Diesel is more higher than the ones Petrol and CNG
