@@ -30,8 +30,13 @@ This graph depicts following points:
 
 ## ML Model
 I used two Machine Learning Models in this project which are following:
-* Linear Regression Model 
-* Random Forest Model
+* Linear Regression Model:
+
+In statistics, linear regression is a linear approach to modelling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables).
+
+* Random Forest Model:
+
+The random forest is a classification algorithm consisting of many decision trees. It uses bagging and feature randomness when building each tree to try to create an uncorrelated forest of trees whose prediction by committee is more accurate than that of any individual tree.
 
 Both models were almost showing same results but I considered Random Forest Model as a best model due to R-Squared Score which was 96% for Random Forest was bit more acuurate as compare to Linear Regression Model.
 * Linear Regression Model
