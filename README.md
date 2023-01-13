@@ -57,3 +57,8 @@ Both models were almost showing same results but I considered Random Forest Mode
 This article by Panwar Abhash Anil was very helpful while building my models:
 
 https://towardsdatascience.com/used-car-price-prediction-using-machine-learning-e3be02d977b2
+
+
+## Link to dataset:
+
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
