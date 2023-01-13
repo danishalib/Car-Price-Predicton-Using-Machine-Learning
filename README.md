@@ -7,3 +7,20 @@ An automobile company aspires to create a Machine Learning Model that estimate u
 ## Goal of the Project
 * To understand the important features of dataset which are affecting selling prices of the cars.
 * To dicover the best ML model for an automobile company to assist individuals and dealerships for prediction of the cars prices.
+
+## Data Features
+There are 7 columns in dataset, which all are affecting selling price of the cars. Columns are following:
+* name
+* year
+* km_driven
+* fuel
+* seller_type
+* transmission
+* owner
+ ![image](https://user-images.githubusercontent.com/109092241/212258994-d58a2009-e519-4902-b0bd-d0e32b42f161.png)
+This graph depicts following points:
+* Selling Price of cars seems to have higher prices when sold by Dealers when compared to Individuals.
+* It can be observed that Selling Price would be higher for cars that are Automatic.
+* Selling Price of cars with Fuel Type of Diesel is higher than Petrol and CNG.
+
+
