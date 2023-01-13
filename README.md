@@ -47,6 +47,6 @@ Both models were almost showing same results but I considered Random Forest Mode
 * Selling price of cars with fuel type Diesel is more higher than the ones Petrol and CNG
 
 ## Citation
-This article was very helpful while building my models
+This article by Panwar Abhash Anil was very helpful while building my models:
 
 https://towardsdatascience.com/used-car-price-prediction-using-machine-learning-e3be02d977b2
